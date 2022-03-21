@@ -1,6 +1,8 @@
 # Machine learning fundamentals
 
-This project is about learning all the fundamentals about machine learning using python and well known libraries for this purposes.
+This project is about learning all the fundamentals about machine learning using python and well known libraries for this purposes. This repository consider the following:
+1. Linear regression
+2. Logistic regression
   
 ## Installation guide
 
