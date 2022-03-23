@@ -1,11 +1,11 @@
 # Machine learning fundamentals
 
 This project is about learning all the fundamentals about machine learning with examples of supervised and unsupervised algorithm using python and well known libraries for this purposes. This repository consider the following:
-* Supervised learning:
+### Supervised learning:
     1. Linear regression.
     2. Logistic regression.
     3. Decision trees.
-* Unsupervised learning:
+### Unsupervised learning:
     1. K-means
   
 ## Installation guide
