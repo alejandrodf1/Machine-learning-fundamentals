@@ -8,7 +8,7 @@ This project is about learning all the fundamentals about machine learning with 
 ### Unsupervised learning:
     1. K-means
 ### Deep learning
-    1. Neural networks
+    1. Neural networks: convolutional neural network
 
 ## Installation guide
 
