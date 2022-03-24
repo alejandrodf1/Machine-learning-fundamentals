@@ -1,13 +1,15 @@
 # Machine learning fundamentals
 
-This project is about learning all the fundamentals about machine learning with examples of supervised and unsupervised algorithm using python and well known libraries for this purposes. This repository consider the following:
+This project is about learning all the fundamentals about machine learning with examples of supervised and unsupervised algorithm using python and well known libraries, for instance, sklearn and tensorflow for this purposes. This repository consider the following:
 ### Supervised learning:
     1. Linear regression.
     2. Logistic regression.
     3. Decision trees.
 ### Unsupervised learning:
     1. K-means
-  
+### Deep learning
+    1. Neural networks
+
 ## Installation guide
 
 Please read [install.md](install.md) for details on how to set up this project.
